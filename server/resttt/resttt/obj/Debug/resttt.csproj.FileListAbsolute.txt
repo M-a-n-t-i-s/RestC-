@@ -1,0 +1,11 @@
+D:\korolev\resttt\resttt\bin\resttt.dll
+D:\korolev\resttt\resttt\bin\resttt.pdb
+D:\korolev\resttt\resttt\obj\Debug\resttt.dll
+D:\korolev\resttt\resttt\obj\Debug\resttt.pdb
+D:\korolev\resttt\resttt\obj\Debug\resttt.csprojResolveAssemblyReference.cache
+D:\Rest\server\resttt\resttt\bin\resttt.dll.config
+D:\Rest\server\resttt\resttt\bin\resttt.dll
+D:\Rest\server\resttt\resttt\bin\resttt.pdb
+D:\Rest\server\resttt\resttt\obj\Debug\resttt.csprojResolveAssemblyReference.cache
+D:\Rest\server\resttt\resttt\obj\Debug\resttt.dll
+D:\Rest\server\resttt\resttt\obj\Debug\resttt.pdb
